@@ -1,4 +1,4 @@
-
+```
                   -`                      DISTRO 󰑃  Arch Linux x86_64
                  .o+`                    │ ├ 󰑃  Linux 6.13.3-arch1-1
                 `ooo/                    │ ├󰏖 󰑃  1825 (pacman), 13 (flatpak)
